@@ -1,0 +1,4 @@
+username:tang,lin,xx,kong
+passwoed:12,23,45,667,88,11,44
+type:int:string,value,docuble,float
+result:a,b,c,d,e,f
